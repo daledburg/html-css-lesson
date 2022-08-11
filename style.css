@@ -1,0 +1,16 @@
+p {
+    color: #9bd833;
+}
+p:hover { 
+    color: green;
+}
+.bold-red { 
+    color: rgb(167, 22, 22);
+    font-weight: bold;
+}   
+.big {
+    font-size: 2rem;
+}
+#Second-item {
+    padding-left: 2rem;
+}
